@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TradingTransactions.Models.Trades.BaseClosedTrade">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Models\Trades\BaseClosedTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradingTransactions.Models.Trades.BaseOpenTrade">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAEA=</HashCode>
+      <FileName>Models\Trades\BaseOpenTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradingTransactions.Models.Trades.BaseTrade">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAIACAAAAAAAAoAAAAAAAAQAgAABAAEA=</HashCode>
+      <FileName>Models\Trades\BaseTrade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TradingTransactions.Models.Trades.LongClosedTrade">
+    <Position X="10" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Trades\LongClosedTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradingTransactions.Models.Trades.LongOpenTrade">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Trades\LongOpenTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradingTransactions.Models.Trades.ShortClosedTrade">
+    <Position X="6.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Trades\ShortClosedTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradingTransactions.Models.Trades.ShortOpenTrade">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Trades\ShortOpenTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
